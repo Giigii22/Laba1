@@ -4,3 +4,4 @@ Debug/
 *.user
 *.sln
 *.exe
+.vs/
